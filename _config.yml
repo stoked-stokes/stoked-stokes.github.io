@@ -1,5 +1,5 @@
-name: Aditya's website
-title: null
+name: "Aditya's website"
+title: false
 description: A site where people can get more information about myself, see what I'm doing right now, and read some things I've written.
 
 remote_theme: pages-themes/cayman@v0.2.0
