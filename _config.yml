@@ -1,6 +1,5 @@
-name: "Aditya's website"
-title: false
-description: A site where people can get more information about myself, see what I'm doing right now, and read some things I've written.
+title: Aditya Chugh
+description: A preliminary attempt at a personal website
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
