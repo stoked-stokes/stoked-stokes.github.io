@@ -6,7 +6,7 @@ subtitle: <a href='https://www.utoronto.ca/'>University of Toronto</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: website-profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
