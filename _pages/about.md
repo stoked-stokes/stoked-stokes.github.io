@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master's student at <a href='https://www.mcgill.ca/'>McGill University</a>
+subtitle:
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I'm a first year master's student at McGill University, working in the condensed matter theory group. I am supervised by <a href='https://pbtami.wixsite.com/mysite-1'>Prof. Tami Pereg-Barnea</a>.
+Welcome! I'm a first year master's student at <a href='https://www.mcgill.ca/'>McGill University</a>, working in the condensed matter theory group. I am supervised by <a href='https://pbtami.wixsite.com/mysite-1'>Prof. Tami Pereg-Barnea</a>.
 
 I am broadly interested in topological systems, superconductivity, novel phases of magnetism, and critical phenomena. During my undergraduate degree, I was fortunate enough to work on a variety of research projects, which you can read more about in [projects](/projects).
 
